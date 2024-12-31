@@ -178,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hey Hello, I am Govardhan i am a DevOps and Full stack Java developer and i am passionate about optimizing workflows and delivering scalable applications, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
+        <p>Hey Hello, this is Govardhan i am a DevOps and Full stack Java developer passionate about optimizing workflows and delivering scalable applications, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
     </section>
 
     <section id="skills" class="skills">
